@@ -38,4 +38,6 @@ I learned once again that behind the image of a nice old man who loves drinking 
 
 Originally posted [here][original_post].
 
+Update on 05/16/20: During Berkshire Hathaway's annual meeting (also known as Woodstock for Capitalists), Buffett disclosed that he sold his entire holdings in airline companies: American Airlines Group (AAL), Delta Air Lines (DAL), Southwest Airlines (LUV), and United Airlines Holdings (UAL). The meeting was held on 05/02/20, virtually for the first time due to COVID-19.
+
 [original_post]: https://medium.com/@nwupkc/thoughts-on-warren-buffett-selling-airline-companies-fbf90a850514?source=friends_link&sk=9f7fab036b02e0ce3a832ced7d64941d
